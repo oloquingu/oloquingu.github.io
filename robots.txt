@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oloquingu.github.io/sitemap.html.gz
+Sitemap: https://oloquingu.github.io/app/sitemap.html.gz
+Sitemap: https://oloquingu.github.io/assets/sitemap.html.gz
+Sitemap: https://oloquingu.github.io/css/sitemap.html.gz
+Sitemap: https://oloquingu.github.io/includes/sitemap.html.gz
+Sitemap: https://oloquingu.github.io/item/sitemap.html.gz
+Sitemap: https://oloquingu.github.io/src/sitemap.html.gz
